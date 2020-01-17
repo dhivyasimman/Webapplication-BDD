@@ -1,0 +1,61 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Story Name : To check placement of trade",
+    "children" : [ {
+      "name" : "Runs Cucumber Feature",
+      "uid" : "605bcb9b589263f2",
+      "parentUid" : "99e9afd4dc1a5fc118f4b2ca8fce5a55",
+      "status" : "broken",
+      "time" : {
+        "start" : 1578987945129,
+        "stop" : 1578991254831,
+        "duration" : 3309702
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Virtual Stock Exchange Function" ]
+    }, {
+      "name" : "Runs Cucumber Feature",
+      "uid" : "f78d471c3d212925",
+      "parentUid" : "99e9afd4dc1a5fc118f4b2ca8fce5a55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579260737108,
+        "stop" : 1579260762558,
+        "duration" : 25450
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Login to VSE Function" ]
+    }, {
+      "name" : "Runs Cucumber Feature",
+      "uid" : "43ca239ec93f4486",
+      "parentUid" : "99e9afd4dc1a5fc118f4b2ca8fce5a55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579260762818,
+        "stop" : 1579260769737,
+        "duration" : 6919
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Input trade details Function" ]
+    }, {
+      "name" : "Runs Cucumber Feature",
+      "uid" : "4c3f794301a257eb",
+      "parentUid" : "99e9afd4dc1a5fc118f4b2ca8fce5a55",
+      "status" : "broken",
+      "time" : {
+        "start" : 1579260769743,
+        "stop" : 1579260769827,
+        "duration" : 84
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "logout feature" ]
+    } ],
+    "uid" : "99e9afd4dc1a5fc118f4b2ca8fce5a55"
+  } ]
+}

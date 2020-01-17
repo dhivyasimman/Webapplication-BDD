@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jan 17 17:02:17 IST 2020","Fri Jan 17 17:02:42 IST 2020","25450","Suite","Test","NTRunner.VSERunner","NTRunner.VSERunner","feature","Runs Cucumber Feature",""
+"broken","Fri Jan 17 17:02:49 IST 2020","Fri Jan 17 17:02:49 IST 2020","84","Suite","Test","NTRunner.VSERunner","NTRunner.VSERunner","feature","Runs Cucumber Feature",""
+"broken","Tue Jan 14 13:15:45 IST 2020","Tue Jan 14 14:10:54 IST 2020","3309702","Suite","Test","NTRunner.VSERunner","NTRunner.VSERunner","feature","Runs Cucumber Feature",""
+"passed","Fri Jan 17 17:02:42 IST 2020","Fri Jan 17 17:02:49 IST 2020","6919","Suite","Test","NTRunner.VSERunner","NTRunner.VSERunner","feature","Runs Cucumber Feature",""

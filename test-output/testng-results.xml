@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34830" started-at="2020-01-17T10:01:08Z" finished-at="2020-01-17T10:01:43Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:NTRunner.VSERunner@23986957]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Test" duration-ms="34830" started-at="2020-01-17T10:01:08Z" finished-at="2020-01-17T10:01:43Z">
+      <class name="NTRunner.VSERunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:NTRunner.VSERunner@23986957]" name="setUpClass" is-config="true" duration-ms="227" started-at="2020-01-17T15:31:08Z" finished-at="2020-01-17T15:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:NTRunner.VSERunner@23986957]" name="feature" duration-ms="23426" started-at="2020-01-17T15:31:09Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-01-17T15:31:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Login to VSE Function]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:NTRunner.VSERunner@23986957]" name="feature" duration-ms="9049" started-at="2020-01-17T15:31:32Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-01-17T15:31:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Input trade details Function]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:NTRunner.VSERunner@23986957]" name="feature" duration-ms="1937" started-at="2020-01-17T15:31:41Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2020-01-17T15:31:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[logout feature]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:NTRunner.VSERunner@23986957]" name="tearDownClass" is-config="true" duration-ms="5" started-at="2020-01-17T15:31:43Z" finished-at="2020-01-17T15:31:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- NTRunner.VSERunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,156 @@
+{
+  "uid" : "ce215a8d8afa8dcf",
+  "name" : "Runs Cucumber Feature",
+  "fullName" : "cucumber.api.testng.AbstractTestNGCucumberTests.feature",
+  "historyId" : "82c60f96b33616eaf6b777868b6cd95d",
+  "time" : {
+    "start" : 1579258420352,
+    "stop" : 1579258422280,
+    "duration" : 1928
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1579258394098,
+      "stop" : 1579258394518,
+      "duration" : 420
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "User is in the VSE website",
+      "time" : {
+        "start" : 1579258420353,
+        "stop" : 1579258420353,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Click Logout",
+      "time" : {
+        "start" : 1579258420354,
+        "stop" : 1579258421312,
+        "duration" : 958
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User verifies the Virtual Stock Exchange title",
+      "time" : {
+        "start" : 1579258421313,
+        "stop" : 1579258422280,
+        "duration" : 967
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1579258422286,
+      "stop" : 1579258422292,
+      "duration" : 6
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "NTRunner.VSERunner"
+  }, {
+    "name" : "testClass",
+    "value" : "NTRunner.VSERunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "feature"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "NTRunner.VSERunner"
+  }, {
+    "name" : "host",
+    "value" : "TGS-DPC-2532"
+  }, {
+    "name" : "thread",
+    "value" : "14944@TGS-DPC-2532.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name : To check placement of trade"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "logout feature"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ce215a8d8afa8dcf.json",
+  "parameterValues" : [ "logout feature" ]
+}

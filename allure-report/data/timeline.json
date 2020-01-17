@@ -1,0 +1,2014 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "TGS-DPC-2532",
+    "children" : [ {
+      "name" : "9412@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "5f2d094dfeacb420",
+        "parentUid" : "e6fd9fa40b281e16f37c474ef23ff91a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579249581602,
+          "stop" : 1579249604505,
+          "duration" : 22903
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "e6fd9fa40b281e16f37c474ef23ff91a"
+    }, {
+      "name" : "11496@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "126090d3f044653e",
+        "parentUid" : "645adb6618406db49bbb11f2c464b69e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579252552573,
+          "stop" : 1579252554346,
+          "duration" : 1773
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "fdc86b4e144852ec",
+        "parentUid" : "645adb6618406db49bbb11f2c464b69e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579252519770,
+          "stop" : 1579252549754,
+          "duration" : 29984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "85cf1c5bc50ffbe8",
+        "parentUid" : "645adb6618406db49bbb11f2c464b69e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579252549873,
+          "stop" : 1579252551273,
+          "duration" : 1400
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      } ],
+      "uid" : "645adb6618406db49bbb11f2c464b69e"
+    }, {
+      "name" : "2512@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "dbac3d2c40624591",
+        "parentUid" : "5d37b766b9ed3b6089c1bc57050bac64",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579180270414,
+          "stop" : 1579180289383,
+          "duration" : 18969
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "47630034df47972b",
+        "parentUid" : "5d37b766b9ed3b6089c1bc57050bac64",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579180289492,
+          "stop" : 1579180293176,
+          "duration" : 3684
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "e1b8ac34891861b0",
+        "parentUid" : "5d37b766b9ed3b6089c1bc57050bac64",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579180293281,
+          "stop" : 1579180295654,
+          "duration" : 2373
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "5d37b766b9ed3b6089c1bc57050bac64"
+    }, {
+      "name" : "9328@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "525b441f504fcffe",
+        "parentUid" : "017e8c8fa6f559885bdea430eab05846",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579252826621,
+          "stop" : 1579252828650,
+          "duration" : 2029
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "5e1ef915ccc60832",
+        "parentUid" : "017e8c8fa6f559885bdea430eab05846",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579251433836,
+          "stop" : 1579252038821,
+          "duration" : 604985
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "e5d9bdee106f0630",
+        "parentUid" : "017e8c8fa6f559885bdea430eab05846",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579252822446,
+          "stop" : 1579252824482,
+          "duration" : 2036
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      } ],
+      "uid" : "017e8c8fa6f559885bdea430eab05846"
+    }, {
+      "name" : "11060@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "5e2777896e59d5dc",
+        "parentUid" : "7e539bea6ab5089797d867b84d9d7cfb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579252641514,
+          "stop" : 1579252643555,
+          "duration" : 2041
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "30a064fcc5226cb0",
+        "parentUid" : "7e539bea6ab5089797d867b84d9d7cfb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579251215068,
+          "stop" : 1579251819973,
+          "duration" : 604905
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "ad7c1dcfa4bb2489",
+        "parentUid" : "7e539bea6ab5089797d867b84d9d7cfb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579252637124,
+          "stop" : 1579252639382,
+          "duration" : 2258
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      } ],
+      "uid" : "7e539bea6ab5089797d867b84d9d7cfb"
+    }, {
+      "name" : "13068@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "462907113bf64d18",
+        "parentUid" : "c540052f3184eff1237f7c1994f52cb0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579250476167,
+          "stop" : 1579250480308,
+          "duration" : 4141
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "441695c6a1cf5211",
+        "parentUid" : "c540052f3184eff1237f7c1994f52cb0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579250109286,
+          "stop" : 1579250476026,
+          "duration" : 366740
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "38d38694656d9624",
+        "parentUid" : "c540052f3184eff1237f7c1994f52cb0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579250480316,
+          "stop" : 1579250484450,
+          "duration" : 4134
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "c540052f3184eff1237f7c1994f52cb0"
+    }, {
+      "name" : "10408@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "9d15699426097007",
+        "parentUid" : "9ae9925759ddea7baba64e65d3fe5f06",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578399172441,
+          "stop" : 1578399212547,
+          "duration" : 40106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "9ae9925759ddea7baba64e65d3fe5f06"
+    }, {
+      "name" : "13320@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "2d38749f791cd812",
+        "parentUid" : "a6108e805159327518e3140fa6c3680f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579256368134,
+          "stop" : 1579256390579,
+          "duration" : 22445
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "81ba0005b37870b1",
+        "parentUid" : "a6108e805159327518e3140fa6c3680f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579256390827,
+          "stop" : 1579256410709,
+          "duration" : 19882
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "f6c943941f1e312",
+        "parentUid" : "a6108e805159327518e3140fa6c3680f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579256410716,
+          "stop" : 1579256411685,
+          "duration" : 969
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "a6108e805159327518e3140fa6c3680f"
+    }, {
+      "name" : "15788@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "ef5bc075112f9af5",
+        "parentUid" : "c0f341efe8703a7b869641d264c72515",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578484795011,
+          "stop" : 1578484834553,
+          "duration" : 39542
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "c0f341efe8703a7b869641d264c72515"
+    }, {
+      "name" : "13820@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "aca13590c1e4bbc",
+        "parentUid" : "29ccc62611583ca1b0c83773659d7873",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579253535264,
+          "stop" : 1579253539435,
+          "duration" : 4171
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "d41f69f5a4de1cad",
+        "parentUid" : "29ccc62611583ca1b0c83773659d7873",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579253539441,
+          "stop" : 1579253543613,
+          "duration" : 4172
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "785d68547ee05392",
+        "parentUid" : "29ccc62611583ca1b0c83773659d7873",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579253108492,
+          "stop" : 1579253535097,
+          "duration" : 426605
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "29ccc62611583ca1b0c83773659d7873"
+    }, {
+      "name" : "10132@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "89c7df00cf2acc4d",
+        "parentUid" : "b92084f216c38f5b0f0900d59854f693",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579178193260,
+          "stop" : 1579178195257,
+          "duration" : 1997
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "a27548aece57dbd3",
+        "parentUid" : "b92084f216c38f5b0f0900d59854f693",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579178167775,
+          "stop" : 1579178190292,
+          "duration" : 22517
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "e1933b0d181052bd",
+        "parentUid" : "b92084f216c38f5b0f0900d59854f693",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579178190410,
+          "stop" : 1579178193250,
+          "duration" : 2840
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      } ],
+      "uid" : "b92084f216c38f5b0f0900d59854f693"
+    }, {
+      "name" : "9900@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "df01237f70aa8bb6",
+        "parentUid" : "d7381ce7aa252e68a2acabfd9c8f581d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578984358998,
+          "stop" : 1578984415038,
+          "duration" : 56040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "d7381ce7aa252e68a2acabfd9c8f581d"
+    }, {
+      "name" : "13304@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "c5f6963ca29bf628",
+        "parentUid" : "f99a67c82f24e7e183975f2b5a5f195b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579179282811,
+          "stop" : 1579179287014,
+          "duration" : 4203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "a0b3f965dc5355d6",
+        "parentUid" : "f99a67c82f24e7e183975f2b5a5f195b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579179287021,
+          "stop" : 1579179291124,
+          "duration" : 4103
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "6c55267627d1b7f7",
+        "parentUid" : "f99a67c82f24e7e183975f2b5a5f195b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579179268216,
+          "stop" : 1579179282686,
+          "duration" : 14470
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "f99a67c82f24e7e183975f2b5a5f195b"
+    }, {
+      "name" : "4928@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "a79cb9ea7c103055",
+        "parentUid" : "a546e6aceceb1cd35054e954167cc9cc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579250863897,
+          "stop" : 1579250865963,
+          "duration" : 2066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "1ff65cc7d154b4fa",
+        "parentUid" : "a546e6aceceb1cd35054e954167cc9cc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579250675866,
+          "stop" : 1579250861606,
+          "duration" : 185740
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "3844869491f30ef7",
+        "parentUid" : "a546e6aceceb1cd35054e954167cc9cc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579250868135,
+          "stop" : 1579250870175,
+          "duration" : 2040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "a546e6aceceb1cd35054e954167cc9cc"
+    }, {
+      "name" : "11564@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "7ce625ccee94ecd1",
+        "parentUid" : "e94cf6df34cb9b12c642768a079a9635",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579253908225,
+          "stop" : 1579255006093,
+          "duration" : 1097868
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "9c13498dc3cd853b",
+        "parentUid" : "e94cf6df34cb9b12c642768a079a9635",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579255006292,
+          "stop" : 1579255010515,
+          "duration" : 4223
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "859cca153ff0c6db",
+        "parentUid" : "e94cf6df34cb9b12c642768a079a9635",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579255010520,
+          "stop" : 1579255014672,
+          "duration" : 4152
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "e94cf6df34cb9b12c642768a079a9635"
+    }, {
+      "name" : "12436@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "387cf8ee858aaecf",
+        "parentUid" : "721d9df2b4db654f99b7dfc60771c4d0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579007540407,
+          "stop" : 1579007540456,
+          "duration" : 49
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "fa38a0027c5cc045",
+        "parentUid" : "721d9df2b4db654f99b7dfc60771c4d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579007538708,
+          "stop" : 1579007540382,
+          "duration" : 1674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "f98d915b84b1f29d",
+        "parentUid" : "721d9df2b4db654f99b7dfc60771c4d0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579007515260,
+          "stop" : 1579007538588,
+          "duration" : 23328
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "721d9df2b4db654f99b7dfc60771c4d0"
+    }, {
+      "name" : "9880@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "605bcb9b589263f2",
+        "parentUid" : "fe94d7ae2e1f0ef08a84334460514e1c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578987945129,
+          "stop" : 1578991254831,
+          "duration" : 3309702
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "fe94d7ae2e1f0ef08a84334460514e1c"
+    }, {
+      "name" : "1388@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "7cd0d6b371d09884",
+        "parentUid" : "254af12a9ef89a8e2a7c27a4627d6920",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579250290501,
+          "stop" : 1579250324208,
+          "duration" : 33707
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "254af12a9ef89a8e2a7c27a4627d6920"
+    }, {
+      "name" : "6364@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "adb1b7d7ac513a26",
+        "parentUid" : "e17b4a9b7dd6623f446859442d5fed32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579008140403,
+          "stop" : 1579008236650,
+          "duration" : 96247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "325f6a58afeddd12",
+        "parentUid" : "e17b4a9b7dd6623f446859442d5fed32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579008236663,
+          "stop" : 1579008237718,
+          "duration" : 1055
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "c837b68462825fa9",
+        "parentUid" : "e17b4a9b7dd6623f446859442d5fed32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579008116556,
+          "stop" : 1579008140314,
+          "duration" : 23758
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "e17b4a9b7dd6623f446859442d5fed32"
+    }, {
+      "name" : "7532@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "547851dc9df6592e",
+        "parentUid" : "c93d17c616f20581144e3c4281139443",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578486172072,
+          "stop" : 1578486201478,
+          "duration" : 29406
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "c93d17c616f20581144e3c4281139443"
+    }, {
+      "name" : "14376@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "58ce15356ff9bd0f",
+        "parentUid" : "0a4033420f0d53e60b47d731fcd543d6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578400076401,
+          "stop" : 1578400115010,
+          "duration" : 38609
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "0a4033420f0d53e60b47d731fcd543d6"
+    }, {
+      "name" : "668@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "4122eaab2529523e",
+        "parentUid" : "dd27fa03a8d69a659f32ae638528e0f2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578408258396,
+          "stop" : 1578408293773,
+          "duration" : 35377
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "dd27fa03a8d69a659f32ae638528e0f2"
+    }, {
+      "name" : "14116@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "b0f39c5b4ea7408d",
+        "parentUid" : "76a5fa1c68d06733c8456eb3d0ee6ce0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579008143894,
+          "stop" : 1579008146694,
+          "duration" : 2800
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "483a537afaa52079",
+        "parentUid" : "76a5fa1c68d06733c8456eb3d0ee6ce0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579008116485,
+          "stop" : 1579008140364,
+          "duration" : 23879
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "8730d45ca4de555b",
+        "parentUid" : "76a5fa1c68d06733c8456eb3d0ee6ce0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579008140448,
+          "stop" : 1579008143886,
+          "duration" : 3438
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      } ],
+      "uid" : "76a5fa1c68d06733c8456eb3d0ee6ce0"
+    }, {
+      "name" : "15988@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "c0252071e50836c2",
+        "parentUid" : "4bcc468d898fcba963c75f94394377bb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1578488713120,
+          "stop" : 1578488748192,
+          "duration" : 35072
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "4bcc468d898fcba963c75f94394377bb"
+    }, {
+      "name" : "13232@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "e0639a761895c90a",
+        "parentUid" : "ed6c141a74a67c5579c9a5cdcceb33fe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578399889727,
+          "stop" : 1578399930322,
+          "duration" : 40595
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "ed6c141a74a67c5579c9a5cdcceb33fe"
+    }, {
+      "name" : "14380@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "5fc26049cc659abd",
+        "parentUid" : "eda04421343582b3dfee5de301b672e3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578401168101,
+          "stop" : 1578401197357,
+          "duration" : 29256
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "eda04421343582b3dfee5de301b672e3"
+    }, {
+      "name" : "12220@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "703829855a0597e9",
+        "parentUid" : "4b24cbf528717c8723d60e92c52ce7eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579258876491,
+          "stop" : 1579258898682,
+          "duration" : 22191
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "ae86ecc81ca2b5ea",
+        "parentUid" : "4b24cbf528717c8723d60e92c52ce7eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579258904064,
+          "stop" : 1579258905925,
+          "duration" : 1861
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "1efba8c7c3affdc3",
+        "parentUid" : "4b24cbf528717c8723d60e92c52ce7eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579258898932,
+          "stop" : 1579258904054,
+          "duration" : 5122
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      } ],
+      "uid" : "4b24cbf528717c8723d60e92c52ce7eb"
+    }, {
+      "name" : "14944@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "e7acc1343f1e08d8",
+        "parentUid" : "3d57cb5e305c9e5e102102e7849911c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579258417456,
+          "stop" : 1579258420346,
+          "duration" : 2890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "ce215a8d8afa8dcf",
+        "parentUid" : "3d57cb5e305c9e5e102102e7849911c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579258420352,
+          "stop" : 1579258422280,
+          "duration" : 1928
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "168fbb0068fd16b9",
+        "parentUid" : "3d57cb5e305c9e5e102102e7849911c1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579258394700,
+          "stop" : 1579258417216,
+          "duration" : 22516
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "3d57cb5e305c9e5e102102e7849911c1"
+    }, {
+      "name" : "10672@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "6ab3a387c97767b4",
+        "parentUid" : "44db60819f830515a7778ba4174b622d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578452114251,
+          "stop" : 1578452145968,
+          "duration" : 31717
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "44db60819f830515a7778ba4174b622d"
+    }, {
+      "name" : "14580@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "d6b57844ff224d79",
+        "parentUid" : "52e8bfba8481d952d25c652ef0704927",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579007927947,
+          "stop" : 1579007948801,
+          "duration" : 20854
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "2eec2052216599e5",
+        "parentUid" : "52e8bfba8481d952d25c652ef0704927",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579007948891,
+          "stop" : 1579007952038,
+          "duration" : 3147
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "5d8cdfec61a21ce2",
+        "parentUid" : "52e8bfba8481d952d25c652ef0704927",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579007952046,
+          "stop" : 1579007952274,
+          "duration" : 228
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "52e8bfba8481d952d25c652ef0704927"
+    }, {
+      "name" : "3524@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "6230a4bc401a7e70",
+        "parentUid" : "55ae2a0a541581f271e7500c726154c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579007798731,
+          "stop" : 1579007810584,
+          "duration" : 11853
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "47059d64baaefb64",
+        "parentUid" : "55ae2a0a541581f271e7500c726154c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579007824115,
+          "stop" : 1579007825087,
+          "duration" : 972
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "96cbeb3daa53fdb5",
+        "parentUid" : "55ae2a0a541581f271e7500c726154c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579007810667,
+          "stop" : 1579007824106,
+          "duration" : 13439
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      } ],
+      "uid" : "55ae2a0a541581f271e7500c726154c3"
+    }, {
+      "name" : "12848@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "f7336cf46ba4c260",
+        "parentUid" : "fe04d1116c357ad0669cb107185b67f8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579257009180,
+          "stop" : 1579257016786,
+          "duration" : 7606
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "1a0d9620252904f9",
+        "parentUid" : "fe04d1116c357ad0669cb107185b67f8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579257016883,
+          "stop" : 1579257019114,
+          "duration" : 2231
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "66ed5eb65d4142db",
+        "parentUid" : "fe04d1116c357ad0669cb107185b67f8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579256981790,
+          "stop" : 1579257008771,
+          "duration" : 26981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "fe04d1116c357ad0669cb107185b67f8"
+    }, {
+      "name" : "4644@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "2043831792b9df58",
+        "parentUid" : "a843091decd8466f2ae2eda4a04f30af",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578984359029,
+          "stop" : 1578984402848,
+          "duration" : 43819
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "a843091decd8466f2ae2eda4a04f30af"
+    }, {
+      "name" : "9476@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "263edf99aef93bdf",
+        "parentUid" : "d12258d3fff0329048b386a99f7ffc78",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578984627419,
+          "stop" : 1578987934981,
+          "duration" : 3307562
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "d12258d3fff0329048b386a99f7ffc78"
+    }, {
+      "name" : "3616@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "70592db1ef0781d5",
+        "parentUid" : "d1ebae5cd37e680a445e10e296ab97d9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579179080016,
+          "stop" : 1579179264594,
+          "duration" : 184578
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "fcfa24b2006a03f5",
+        "parentUid" : "d1ebae5cd37e680a445e10e296ab97d9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579179268993,
+          "stop" : 1579179273111,
+          "duration" : 4118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "262dfccfbadf6515",
+        "parentUid" : "d1ebae5cd37e680a445e10e296ab97d9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579179264760,
+          "stop" : 1579179268983,
+          "duration" : 4223
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      } ],
+      "uid" : "d1ebae5cd37e680a445e10e296ab97d9"
+    }, {
+      "name" : "1564@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "4c2401f3879378c8",
+        "parentUid" : "081bfc08f65bc3e671d52e80845ecd2d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578485693184,
+          "stop" : 1578485966621,
+          "duration" : 273437
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "081bfc08f65bc3e671d52e80845ecd2d"
+    }, {
+      "name" : "2256@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "31e8cacbde620129",
+        "parentUid" : "2056b2fc24014e37209e0ac5969ef841",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579260186351,
+          "stop" : 1579260194358,
+          "duration" : 8007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "28f6222030473824",
+        "parentUid" : "2056b2fc24014e37209e0ac5969ef841",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579260194366,
+          "stop" : 1579260196310,
+          "duration" : 1944
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "e8e08b1db27ecb51",
+        "parentUid" : "2056b2fc24014e37209e0ac5969ef841",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579260164447,
+          "stop" : 1579260186082,
+          "duration" : 21635
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "2056b2fc24014e37209e0ac5969ef841"
+    }, {
+      "name" : "16472@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "6f9f0293d58538c8",
+        "parentUid" : "cc8964ba294d35f495e03765543fa800",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578485981928,
+          "stop" : 1578486005388,
+          "duration" : 23460
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "cc8964ba294d35f495e03765543fa800"
+    }, {
+      "name" : "15972@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "f8f2155fbc97645",
+        "parentUid" : "988c4d45a87d1e5401341e7a93f15ce7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578408832796,
+          "stop" : 1578408947466,
+          "duration" : 114670
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "988c4d45a87d1e5401341e7a93f15ce7"
+    }, {
+      "name" : "8844@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "acfcaf11907e3cd4",
+        "parentUid" : "573a073e54a3a170ad1ce59f276e4a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579252013624,
+          "stop" : 1579252034381,
+          "duration" : 20757
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "33c3ea47863fafde",
+        "parentUid" : "573a073e54a3a170ad1ce59f276e4a36",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579252034570,
+          "stop" : 1579252039423,
+          "duration" : 4853
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "39bf19f3f1270753",
+        "parentUid" : "573a073e54a3a170ad1ce59f276e4a36",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579252039432,
+          "stop" : 1579252040298,
+          "duration" : 866
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "573a073e54a3a170ad1ce59f276e4a36"
+    }, {
+      "name" : "5116@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "9ea8ef1d3746c216",
+        "parentUid" : "97142ee7c861e34332e7d0b94cd5bff6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578488027428,
+          "stop" : 1578488067564,
+          "duration" : 40136
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "97142ee7c861e34332e7d0b94cd5bff6"
+    }, {
+      "name" : "10688@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "9dd611e3c255da75",
+        "parentUid" : "15c12c553a86176624f2db8b60aa3345",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579255301587,
+          "stop" : 1579255303519,
+          "duration" : 1932
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "a0412be31b6e3ed2",
+        "parentUid" : "15c12c553a86176624f2db8b60aa3345",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579255292531,
+          "stop" : 1579255301578,
+          "duration" : 9047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "e8ec028e0bc234d4",
+        "parentUid" : "15c12c553a86176624f2db8b60aa3345",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579255269085,
+          "stop" : 1579255292453,
+          "duration" : 23368
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "15c12c553a86176624f2db8b60aa3345"
+    }, {
+      "name" : "12924@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "1568013077db2bd8",
+        "parentUid" : "7306f3d0340f68a2178146f5b8d6f452",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579251894649,
+          "stop" : 1579251944012,
+          "duration" : 49363
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "799ae80d841047da",
+        "parentUid" : "7306f3d0340f68a2178146f5b8d6f452",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579251944026,
+          "stop" : 1579251945132,
+          "duration" : 1106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "21ae33a53adcbb6b",
+        "parentUid" : "7306f3d0340f68a2178146f5b8d6f452",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579251852567,
+          "stop" : 1579251894501,
+          "duration" : 41934
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "7306f3d0340f68a2178146f5b8d6f452"
+    }, {
+      "name" : "9960@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "e284738d8d7e48c4",
+        "parentUid" : "754a553b653e54fc75bd8a6bd7c54a68",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579249679148,
+          "stop" : 1579249685346,
+          "duration" : 6198
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "bbce124f0a08aa75",
+        "parentUid" : "754a553b653e54fc75bd8a6bd7c54a68",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579249685468,
+          "stop" : 1579249685545,
+          "duration" : 77
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "c929846d2472217",
+        "parentUid" : "754a553b653e54fc75bd8a6bd7c54a68",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579249657203,
+          "stop" : 1579249678980,
+          "duration" : 21777
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "754a553b653e54fc75bd8a6bd7c54a68"
+    }, {
+      "name" : "4400@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "37d648c27ffcd1c9",
+        "parentUid" : "cbd34e85c44bf6329ff96565a983d3c4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578399803860,
+          "stop" : 1578399840161,
+          "duration" : 36301
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "cbd34e85c44bf6329ff96565a983d3c4"
+    }, {
+      "name" : "500@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "47a12dfe4f992d6d",
+        "parentUid" : "3c99038986fd247f04a7e6b79e0fabaa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578488130693,
+          "stop" : 1578488339176,
+          "duration" : 208483
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "3c99038986fd247f04a7e6b79e0fabaa"
+    }, {
+      "name" : "12084@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "1c59c1e54d575ced",
+        "parentUid" : "c19088ed3248a0269419f06947486bfd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579259578653,
+          "stop" : 1579259602453,
+          "duration" : 23800
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "7f7a6f3607a5dd04",
+        "parentUid" : "c19088ed3248a0269419f06947486bfd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579259602719,
+          "stop" : 1579259617281,
+          "duration" : 14562
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "fcae5b9121523946",
+        "parentUid" : "c19088ed3248a0269419f06947486bfd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579259617288,
+          "stop" : 1579259618264,
+          "duration" : 976
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "c19088ed3248a0269419f06947486bfd"
+    }, {
+      "name" : "15544@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "690ddda6d94b25f2",
+        "parentUid" : "56ec2298d2c40472c0be862c285f8066",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578484491896,
+          "stop" : 1578484514093,
+          "duration" : 22197
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "56ec2298d2c40472c0be862c285f8066"
+    }, {
+      "name" : "5616@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "b136c0763bf75137",
+        "parentUid" : "8d282645a7e457e923b3e8937ffe741e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579255421808,
+          "stop" : 1579255421861,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "8cf4da4430fb3c2c",
+        "parentUid" : "8d282645a7e457e923b3e8937ffe741e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579255393025,
+          "stop" : 1579255406751,
+          "duration" : 13726
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "8d9c8cb57371f80f",
+        "parentUid" : "8d282645a7e457e923b3e8937ffe741e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579255407023,
+          "stop" : 1579255421801,
+          "duration" : 14778
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      } ],
+      "uid" : "8d282645a7e457e923b3e8937ffe741e"
+    }, {
+      "name" : "9208@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "4c3ab0dbd31a1089",
+        "parentUid" : "f10f0ec5364e40f433ac29b754faf4c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579260048455,
+          "stop" : 1579260050367,
+          "duration" : 1912
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "81d930f662f822ad",
+        "parentUid" : "f10f0ec5364e40f433ac29b754faf4c5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579259945388,
+          "stop" : 1579260047382,
+          "duration" : 101994
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "bd422f6295bd6732",
+        "parentUid" : "f10f0ec5364e40f433ac29b754faf4c5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579259911282,
+          "stop" : 1579259945167,
+          "duration" : 33885
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "f10f0ec5364e40f433ac29b754faf4c5"
+    }, {
+      "name" : "5200@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "f78d471c3d212925",
+        "parentUid" : "c6e6a79ebad9be0e6452b3b679a1b2f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579260737108,
+          "stop" : 1579260762558,
+          "duration" : 25450
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "43ca239ec93f4486",
+        "parentUid" : "c6e6a79ebad9be0e6452b3b679a1b2f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579260762818,
+          "stop" : 1579260769737,
+          "duration" : 6919
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "4c3f794301a257eb",
+        "parentUid" : "c6e6a79ebad9be0e6452b3b679a1b2f2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579260769743,
+          "stop" : 1579260769827,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "c6e6a79ebad9be0e6452b3b679a1b2f2"
+    }, {
+      "name" : "16204@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "2be8e493ae1743f1",
+        "parentUid" : "c656e00e5a247e4b75dde1ca01fdcdfe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578486622161,
+          "stop" : 1578486652807,
+          "duration" : 30646
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "c656e00e5a247e4b75dde1ca01fdcdfe"
+    }, {
+      "name" : "1764@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "9ea4806f316f39c1",
+        "parentUid" : "215738b384ff713c0440288a23b79e16",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578400612325,
+          "stop" : 1578400690876,
+          "duration" : 78551
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "215738b384ff713c0440288a23b79e16"
+    }, {
+      "name" : "7744@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "6bd4a4700ac51038",
+        "parentUid" : "58927f88f9cc12a88cfaa68b473d4bf2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579179184659,
+          "stop" : 1579179213012,
+          "duration" : 28353
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "58927f88f9cc12a88cfaa68b473d4bf2"
+    }, {
+      "name" : "11380@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "33635f7e9f30fb37",
+        "parentUid" : "82978a4274ceeb2b5f365b225044ee2e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578451708473,
+          "stop" : 1578452418163,
+          "duration" : 709690
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "82978a4274ceeb2b5f365b225044ee2e"
+    }, {
+      "name" : "8816@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "81daab226cdd5d69",
+        "parentUid" : "b80015f268897a6ee42e35c239afa1b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579254942382,
+          "stop" : 1579254971636,
+          "duration" : 29254
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "8c5aea4a93f74df6",
+        "parentUid" : "b80015f268897a6ee42e35c239afa1b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579254901428,
+          "stop" : 1579254942009,
+          "duration" : 40581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "a20059d9d49000ab",
+        "parentUid" : "b80015f268897a6ee42e35c239afa1b7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579254971642,
+          "stop" : 1579254973549,
+          "duration" : 1907
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "b80015f268897a6ee42e35c239afa1b7"
+    }, {
+      "name" : "12892@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "75ca082eb07bb418",
+        "parentUid" : "f9c79126d7af7dac513de3956dcc6f9a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578408765604,
+          "stop" : 1578408821294,
+          "duration" : 55690
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "f9c79126d7af7dac513de3956dcc6f9a"
+    }, {
+      "name" : "3128@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "291017eeb3cd73dd",
+        "parentUid" : "3d09e4a40422cc153af7aec762405cfd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579260423217,
+          "stop" : 1579260423287,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "781d03255760a8dc",
+        "parentUid" : "3d09e4a40422cc153af7aec762405cfd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579260392613,
+          "stop" : 1579260413582,
+          "duration" : 20969
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "759e7ca0fa925c40",
+        "parentUid" : "3d09e4a40422cc153af7aec762405cfd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579260413949,
+          "stop" : 1579260423211,
+          "duration" : 9262
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      } ],
+      "uid" : "3d09e4a40422cc153af7aec762405cfd"
+    }, {
+      "name" : "13680@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "cf3e5295907f8f63",
+        "parentUid" : "17581afa1ef1cc50ae9ea038b2c90783",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578484850551,
+          "stop" : 1578484890287,
+          "duration" : 39736
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "17581afa1ef1cc50ae9ea038b2c90783"
+    }, {
+      "name" : "4628@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "5c9de9858918a5ac",
+        "parentUid" : "2f0995f36c7febbddac34ce555550f80",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578488076955,
+          "stop" : 1578488101770,
+          "duration" : 24815
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "2f0995f36c7febbddac34ce555550f80"
+    }, {
+      "name" : "4728@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "784a33679a2a8dfb",
+        "parentUid" : "cdf4f1d248d425ca1dee0a5064152764",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578452671915,
+          "stop" : 1578452709254,
+          "duration" : 37339
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "cdf4f1d248d425ca1dee0a5064152764"
+    }, {
+      "name" : "14000@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "39c47836b69e9e76",
+        "parentUid" : "ad307f69253276e286cc18e3159d9409",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578400198361,
+          "stop" : 1578400318447,
+          "duration" : 120086
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "ad307f69253276e286cc18e3159d9409"
+    }, {
+      "name" : "5804@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "df45b9ba7859e4bb",
+        "parentUid" : "b56dd1372ce211800ea42ed32cf243fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578487408538,
+          "stop" : 1578488005625,
+          "duration" : 597087
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "b56dd1372ce211800ea42ed32cf243fa"
+    }, {
+      "name" : "13244@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "9a929805f7cf93fa",
+        "parentUid" : "6088672d69c41a4cfa1dfb326cac5c72",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579250478648,
+          "stop" : 1579250664527,
+          "duration" : 185879
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "3a2c18f8135e0aae",
+        "parentUid" : "6088672d69c41a4cfa1dfb326cac5c72",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579250664847,
+          "stop" : 1579250664917,
+          "duration" : 70
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Input trade details Function" ]
+      }, {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "e4f3f975dc3407c9",
+        "parentUid" : "6088672d69c41a4cfa1dfb326cac5c72",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579250665081,
+          "stop" : 1579250665097,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "6088672d69c41a4cfa1dfb326cac5c72"
+    }, {
+      "name" : "10580@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "662b490b3fbca2d",
+        "parentUid" : "4135790d623ab153dabd6779450fe973",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578488369848,
+          "stop" : 1578488474923,
+          "duration" : 105075
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "4135790d623ab153dabd6779450fe973"
+    }, {
+      "name" : "15212@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "3168e1d2492d9bfd",
+        "parentUid" : "11c2554d095ad47a5271d5b12d4b5fb3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1579251487905,
+          "stop" : 1579251509395,
+          "duration" : 21490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Login to VSE Function" ]
+      } ],
+      "uid" : "11c2554d095ad47a5271d5b12d4b5fb3"
+    }, {
+      "name" : "10828@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "6039b5dc8d4e6547",
+        "parentUid" : "42f4a98e93f021fc1c5e7eb4662f8313",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578488488649,
+          "stop" : 1578488715875,
+          "duration" : 227226
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "42f4a98e93f021fc1c5e7eb4662f8313"
+    }, {
+      "name" : "10204@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "6c836fd4309f9e84",
+        "parentUid" : "278c4330269e2cfb05aafaaf080b7259",
+        "status" : "passed",
+        "time" : {
+          "start" : 1578484406581,
+          "stop" : 1578484470366,
+          "duration" : 63785
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "278c4330269e2cfb05aafaaf080b7259"
+    }, {
+      "name" : "16152@TGS-DPC-2532.main(1)",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "f00d6ccb921fd88d",
+        "parentUid" : "09cf86eaa9233b5bb0714ba0c53f3994",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578453230374,
+          "stop" : 1578456535604,
+          "duration" : 3305230
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "09cf86eaa9233b5bb0714ba0c53f3994"
+    } ],
+    "uid" : "49bb30a5583b49985535198033e28f13"
+  } ]
+}

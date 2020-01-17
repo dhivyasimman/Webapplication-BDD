@@ -1,0 +1,186 @@
+{
+  "uid" : "759e7ca0fa925c40",
+  "name" : "Runs Cucumber Feature",
+  "fullName" : "cucumber.api.testng.AbstractTestNGCucumberTests.feature",
+  "historyId" : "7218595ea3114d958e16ba6dcb78ce13",
+  "time" : {
+    "start" : 1579260413949,
+    "stop" : 1579260423211,
+    "duration" : 9262
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUpClass",
+    "time" : {
+      "start" : 1579260392030,
+      "stop" : 1579260392444,
+      "duration" : 414
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "User selects TRADE STOCKS option in MAKE A TRADE dropdown",
+      "time" : {
+        "start" : 1579260413951,
+        "stop" : 1579260414867,
+        "duration" : 916
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "User selects the Region, Location and keys in necessary values",
+      "time" : {
+        "start" : 1579260414868,
+        "stop" : 1579260415713,
+        "duration" : 845
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Clicks the Preview Button",
+      "time" : {
+        "start" : 1579260415714,
+        "stop" : 1579260415824,
+        "duration" : 110
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Now User Clicks the Confirm Button",
+      "time" : {
+        "start" : 1579260415824,
+        "stop" : 1579260423210,
+        "duration" : 7386
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Trade is successfully placed",
+      "time" : {
+        "start" : 1579260423210,
+        "stop" : 1579260423210,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "hasContent" : true,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "tearDownClass",
+    "time" : {
+      "start" : 1579260424328,
+      "stop" : 1579260424331,
+      "duration" : 3
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "NTRunner.VSERunner"
+  }, {
+    "name" : "testClass",
+    "value" : "NTRunner.VSERunner"
+  }, {
+    "name" : "testMethod",
+    "value" : "feature"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "NTRunner.VSERunner"
+  }, {
+    "name" : "host",
+    "value" : "TGS-DPC-2532"
+  }, {
+    "name" : "thread",
+    "value" : "3128@TGS-DPC-2532.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "story",
+    "value" : "Story Name : To check placement of trade"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "Input trade details Function"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "759e7ca0fa925c40.json",
+  "parameterValues" : [ "Input trade details Function" ]
+}

@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "NTRunner.VSERunner",
+    "children" : [ {
+      "name" : "feature",
+      "uid" : "605bcb9b589263f2",
+      "parentUid" : "e1c652ac417ce5483a7ad6b1f96a3125",
+      "status" : "broken",
+      "time" : {
+        "start" : 1578987945129,
+        "stop" : 1578991254831,
+        "duration" : 3309702
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Virtual Stock Exchange Function" ]
+    }, {
+      "name" : "feature",
+      "uid" : "f78d471c3d212925",
+      "parentUid" : "e1c652ac417ce5483a7ad6b1f96a3125",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579260737108,
+        "stop" : 1579260762558,
+        "duration" : 25450
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Login to VSE Function" ]
+    }, {
+      "name" : "feature",
+      "uid" : "43ca239ec93f4486",
+      "parentUid" : "e1c652ac417ce5483a7ad6b1f96a3125",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579260762818,
+        "stop" : 1579260769737,
+        "duration" : 6919
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "Input trade details Function" ]
+    }, {
+      "name" : "feature",
+      "uid" : "4c3f794301a257eb",
+      "parentUid" : "e1c652ac417ce5483a7ad6b1f96a3125",
+      "status" : "broken",
+      "time" : {
+        "start" : 1579260769743,
+        "stop" : 1579260769827,
+        "duration" : 84
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "logout feature" ]
+    } ],
+    "uid" : "NTRunner.VSERunner"
+  } ]
+}

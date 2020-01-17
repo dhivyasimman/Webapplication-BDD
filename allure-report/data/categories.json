@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 600.000\n  (Session info: chrome=73.0.3683.75)\n  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'TGS-DPC-2532', ip: '192.168.81.72', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\\WINDOWS\\TEMP\\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.75, webStorageEnabled: true}\nSession ID: ce9eee0f587d8c237ba61e9f98670cb1",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "605bcb9b589263f2",
+        "parentUid" : "6d8ba63fbf5c1c5dcc6f9f7c4fec7c1f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1578987945129,
+          "stop" : 1578991254831,
+          "duration" : 3309702
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Virtual Stock Exchange Function" ]
+      } ],
+      "uid" : "6d8ba63fbf5c1c5dcc6f9f7c4fec7c1f"
+    }, {
+      "name" : "org.openqa.selenium.WebDriverException: unknown error: Element <a href=\"/logout\" class=\"btnLogReg btnRegister\">...</a> is not clickable at point (1301, 9). Other element would receive the click: <nav class=\"top-bar sticky\">...</nav>\n  (Session info: chrome=73.0.3683.75)\n  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'TGS-DPC-2532', ip: '192.168.81.72', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\\Users\\INDUCT~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.75, webStorageEnabled: true}\nSession ID: b25869188ef04f5e72489bb398e4d4f4",
+      "children" : [ {
+        "name" : "Runs Cucumber Feature",
+        "uid" : "4c3f794301a257eb",
+        "parentUid" : "8c9d1bedf22aea8f3205fcf955be08eb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579260769743,
+          "stop" : 1579260769827,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "logout feature" ]
+      } ],
+      "uid" : "8c9d1bedf22aea8f3205fcf955be08eb"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,41 @@
+[ {
+  "uid" : "f78d471c3d212925",
+  "name" : "Runs Cucumber Feature",
+  "time" : {
+    "start" : 1579260737108,
+    "stop" : 1579260762558,
+    "duration" : 25450
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "4c3f794301a257eb",
+  "name" : "Runs Cucumber Feature",
+  "time" : {
+    "start" : 1579260769743,
+    "stop" : 1579260769827,
+    "duration" : 84
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "605bcb9b589263f2",
+  "name" : "Runs Cucumber Feature",
+  "time" : {
+    "start" : 1578987945129,
+    "stop" : 1578991254831,
+    "duration" : 3309702
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+}, {
+  "uid" : "43ca239ec93f4486",
+  "name" : "Runs Cucumber Feature",
+  "time" : {
+    "start" : 1579260762818,
+    "stop" : 1579260769737,
+    "duration" : 6919
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

@@ -1,0 +1,84 @@
+{
+  "282cb4ff137ffdb569156ff5f6c467a6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f78d471c3d212925",
+      "reportUrl" : "http://localhost:8080/job/VSE/6/allure/#testresult/f78d471c3d212925",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579260737108,
+        "stop" : 1579260762558,
+        "duration" : 25450
+      }
+    } ]
+  },
+  "7218595ea3114d958e16ba6dcb78ce13" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "43ca239ec93f4486",
+      "reportUrl" : "http://localhost:8080/job/VSE/6/allure/#testresult/43ca239ec93f4486",
+      "status" : "passed",
+      "time" : {
+        "start" : 1579260762818,
+        "stop" : 1579260769737,
+        "duration" : 6919
+      }
+    } ]
+  },
+  "25c47c8d8cdd17e1a8a5acf18f446070" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "605bcb9b589263f2",
+      "reportUrl" : "http://localhost:8080/job/VSE/6/allure/#testresult/605bcb9b589263f2",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.TimeoutException: timeout: Timed out receiving message from renderer: 600.000\n  (Session info: chrome=73.0.3683.75)\n  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'TGS-DPC-2532', ip: '192.168.81.72', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\\WINDOWS\\TEMP\\scoped_dir1...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.75, webStorageEnabled: true}\nSession ID: ce9eee0f587d8c237ba61e9f98670cb1",
+      "time" : {
+        "start" : 1578987945129,
+        "stop" : 1578991254831,
+        "duration" : 3309702
+      }
+    } ]
+  },
+  "82c60f96b33616eaf6b777868b6cd95d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4c3f794301a257eb",
+      "reportUrl" : "http://localhost:8080/job/VSE/6/allure/#testresult/4c3f794301a257eb",
+      "status" : "broken",
+      "statusDetails" : "org.openqa.selenium.WebDriverException: unknown error: Element <a href=\"/logout\" class=\"btnLogReg btnRegister\">...</a> is not clickable at point (1301, 9). Other element would receive the click: <nav class=\"top-bar sticky\">...</nav>\n  (Session info: chrome=73.0.3683.75)\n  (Driver info: chromedriver=2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73),platform=Windows NT 10.0.17763 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'TGS-DPC-2532', ip: '192.168.81.72', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.35.528161 (5b82f2d2aae0ca..., userDataDir: C:\\Users\\INDUCT~1\\AppData\\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 73.0.3683.75, webStorageEnabled: true}\nSession ID: b25869188ef04f5e72489bb398e4d4f4",
+      "time" : {
+        "start" : 1579260769743,
+        "stop" : 1579260769827,
+        "duration" : 84
+      }
+    } ]
+  }
+}

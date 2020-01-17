@@ -1,0 +1,69 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "NTRunner.VSERunner",
+        "children" : [ {
+          "name" : "Runs Cucumber Feature",
+          "uid" : "605bcb9b589263f2",
+          "parentUid" : "c391c86788c532f6d5780f2e95ac35f4",
+          "status" : "broken",
+          "time" : {
+            "start" : 1578987945129,
+            "stop" : 1578991254831,
+            "duration" : 3309702
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "Virtual Stock Exchange Function" ]
+        }, {
+          "name" : "Runs Cucumber Feature",
+          "uid" : "f78d471c3d212925",
+          "parentUid" : "c391c86788c532f6d5780f2e95ac35f4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1579260737108,
+            "stop" : 1579260762558,
+            "duration" : 25450
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "Login to VSE Function" ]
+        }, {
+          "name" : "Runs Cucumber Feature",
+          "uid" : "43ca239ec93f4486",
+          "parentUid" : "c391c86788c532f6d5780f2e95ac35f4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1579260762818,
+            "stop" : 1579260769737,
+            "duration" : 6919
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "Input trade details Function" ]
+        }, {
+          "name" : "Runs Cucumber Feature",
+          "uid" : "4c3f794301a257eb",
+          "parentUid" : "c391c86788c532f6d5780f2e95ac35f4",
+          "status" : "broken",
+          "time" : {
+            "start" : 1579260769743,
+            "stop" : 1579260769827,
+            "duration" : 84
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "logout feature" ]
+        } ],
+        "uid" : "c391c86788c532f6d5780f2e95ac35f4"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}
