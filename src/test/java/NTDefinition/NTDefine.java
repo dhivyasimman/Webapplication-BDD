@@ -8,7 +8,7 @@ import base.NTBase;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import io.qameta.allure.Step;
+//import io.qameta.allure.Step;
 import pageobjects.ConfirmPage;
 import pageobjects.LogoutPage;
 import pageobjects.PreviewPage;
@@ -28,13 +28,13 @@ public class NTDefine extends NTBase {
 	ConfirmPage confirm;
 	LogoutPage logout;
 	
-	@Step("User Logs into the VSE website")
+	//@Step("User Logs into the VSE website")
 	@Given("^User Logs into the VSE website$")
 	public void user_Logs_into_the_VSE_website() throws Throwable {
 	    NTBase.initialization();
 	    
 	}
-	@Step("User inputs the valid username and password")
+	//@Step("User inputs the valid username and password")
 	@When("^User inputs the valid username and password$")
 	public void user_inputs_the_valid_username_and_password() throws Throwable {
 		vseloginpage = new VSELoginPage(driver);
@@ -47,7 +47,7 @@ public class NTDefine extends NTBase {
 	    
 		
 	}
-	@Step("User verifies the title DASHBOARD")
+	//@Step("User verifies the title DASHBOARD")
 	@Then("^User verifies the title DASHBOARD$")
 	public void user_verifies_the_title_DASHBOARD() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
@@ -57,7 +57,7 @@ public class NTDefine extends NTBase {
 	   Assert.assertEquals("Dashboard",dashboardtitle );
 	   System.out.println("Title matched");
 	  }
-	@Step("User selects TRADE STOCKS option in MAKE A TRADE dropdown")
+	//@Step("User selects TRADE STOCKS option in MAKE A TRADE dropdown")
 	@Given("^User selects TRADE STOCKS option in MAKE A TRADE dropdown$")
 	public void user_selects_TRADE_STOCKS_option_in_MAKE_A_TRADE_dropdown() throws Throwable {
 	    
@@ -70,7 +70,7 @@ public class NTDefine extends NTBase {
 		
 		
 	    	}
-	@Step("User selects the Region, Location and keys in necessary values")
+	//@Step("User selects the Region, Location and keys in necessary values")
 	@When("^User selects the Region, Location and keys in necessary values$")
 	public void user_selects_the_Region_Location_and_keys_in_necessary_values() throws Throwable {
 		tradedetails = new TradedetailPage(driver);
@@ -84,7 +84,7 @@ public class NTDefine extends NTBase {
 	    
 	}
 
-	@Step("Clicks the Preview Button")
+	//@Step("Clicks the Preview Button")
 	@When("^Clicks the Preview Button$")
 	public void clicks_the_Preview_Button() throws Throwable {
 	    
@@ -94,7 +94,7 @@ public class NTDefine extends NTBase {
 		//Assert.assertTrue(preview.verifyorderdetails(), "valid order");
 	}
 
-	@Step("Now User Clicks the Confirm Button")	
+	//@Step("Now User Clicks the Confirm Button")	
 	@Then("^Now User Clicks the Confirm Button$")
 	public void now_User_Clicks_the_Confirm_Button() throws Throwable {
 	   
@@ -103,21 +103,21 @@ public class NTDefine extends NTBase {
 		confirm.confirmorder();
 	}
 
-	@Step("Trade is successfully placed")	
+	//@Step("Trade is successfully placed")	
 	@Then("^Trade is successfully placed$")
 	public void trade_is_successfully_placed() throws Throwable {
 	    
 		System.out.println("Order placed successfully");
 	}
 
-	@Step("User is in the VSE website")
+	//@Step("User is in the VSE website")
 	@Given("^User is in the VSE website$")
 	public void user_is_in_the_VSE_website() throws Throwable {
 	    
 	    System.out.println("User is in the VSE website");
 	}
 
-	@Step("Click Logout")
+	//@Step("Click Logout")
 	@When("^Click Logout$")
 	public void click_Logout() throws Throwable {
 	    
@@ -128,7 +128,7 @@ public class NTDefine extends NTBase {
 	    
 	}
 
-	@Step("User verifies the Virtual Stock Exchange title")
+	//@Step("User verifies the Virtual Stock Exchange title")
 	@Then("^User verifies the Virtual Stock Exchange title$")
 	public void user_verifies_the_Virtual_Stock_Exchange_title() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions

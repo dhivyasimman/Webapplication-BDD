@@ -15,7 +15,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 public class ExcelRead {
 
 	
-	public static final String Excelfileloaction="C:\\Users\\Induction\\Desktop\\NothernTrust\\NT\\src\\main\\java\\utility\\Data.xlsx";
+	public static final String Excelfileloaction="C:\\Users\\Technical upskilling\\git\\VSE\\src\\main\\java\\utility\\Data.xlsx";
 
 	private static FileInputStream fis;
 	private static XSSFWorkbook workbook;

@@ -9,9 +9,9 @@ import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
 //mport cucumber.api.junit.Cucumber;
 import cucumber.api.testng.AbstractTestNGCucumberTests;
-import io.qameta.allure.Severity;
-import io.qameta.allure.SeverityLevel;
-import io.qameta.allure.Story;
+//import io.qameta.allure.Severity;
+//import io.qameta.allure.SeverityLevel;
+//import io.qameta.allure.Story;
 
 
 //@RunWith(Cucumber.class)
@@ -19,8 +19,8 @@ import io.qameta.allure.Story;
 glue="NTDefinition")
 
 @Test
-@Severity(SeverityLevel.BLOCKER)
-@Story("Story Name : To check placement of trade")
+//@Severity(SeverityLevel.BLOCKER)
+//@Story("Story Name : To check placement of trade")
 public class VSERunner extends AbstractTestNGCucumberTests {
 	//NTBase ntbase=new NTBase();
 }

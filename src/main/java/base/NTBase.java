@@ -31,7 +31,7 @@ public class NTBase {
 		public NTBase(){
 			try {
 				Prop = new Properties();
-				FileInputStream ip = new FileInputStream("C:\\Users\\Induction\\Desktop\\NothernTrust\\NT\\src\\main\\java\\config\\config.properties");
+				FileInputStream ip = new FileInputStream("C:\\Users\\Technical upskilling\\git\\VSE\\src\\main\\java\\config\\config.properties");
 				Prop.load(ip);
 			} catch (FileNotFoundException e) {
 				e.printStackTrace();
@@ -43,7 +43,7 @@ public class NTBase {
 			String browserName = Prop.getProperty("browser");
 			
 			if(browserName.equals("chrome")){
-				System.setProperty("webdriver.chrome.driver", "C:\\Users\\Induction\\Desktop\\NothernTrust\\NT\\src\\main\\java\\config\\chromedriver.exe");	
+				System.setProperty("webdriver.chrome.driver", "C:\\Users\\Technical upskilling\\git\\VSE\\src\\main\\java\\config\\chromedriver.exe");	
 				driver = new ChromeDriver(); 
 			}
 			else if(browserName.equals("FF")){

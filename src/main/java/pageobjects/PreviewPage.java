@@ -25,7 +25,7 @@ WebDriver driver;
 		
 	}
 	
-	@FindBy(how=How.XPATH,using="//input[contains(@value,'Preview')]")
+	@FindBy(how=How.CSS.ID,using="#btnPreviewOrder")
 	private WebElement previewbtn;
 	
 	public void previewclick(){
@@ -37,7 +37,8 @@ WebDriver driver;
 		WebDriverWait waitpreview = new WebDriverWait(driver, 200);
 		WebElement previewbtn1 = waitpreview.until(ExpectedConditions.elementToBeClickable(previewbtn));
 		//driver.manage().timeouts().implicitlyWait(TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS);
-		previewbtn1.sendKeys(Keys.ENTER);
+		previewbtn1.click();
+		
 	}
 	
 	/*public boolean verifyorderdetails(){
